@@ -1,0 +1,8 @@
+MARKETING STRATEGY MEMO - Q4 CAMPAIGN
+
+Objective: Acquire 10,000 developer accounts during Hacktoberfest.
+Key Channels:
+1. DEV.to sponsored technical deep-dive articles
+2. Open-source demo videos on YouTube
+3. Community hackathon workshops
+Total allocated campaign budget: $15,000 USD.

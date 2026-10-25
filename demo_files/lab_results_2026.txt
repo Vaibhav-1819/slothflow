@@ -1,0 +1,9 @@
+PATIENT MEDICAL LAB REPORT
+Patient: Vaibhav
+Date of Collection: Sept 12, 2026
+
+Fasting Blood Glucose: 92 mg/dL (Normal: 70-99)
+Total Cholesterol: 178 mg/dL (Desirable: <200)
+HDL: 56 mg/dL | LDL: 104 mg/dL
+Vitamin D3: 38 ng/mL (Sufficient)
+Physician Notes: All biometric markers within healthy target ranges.

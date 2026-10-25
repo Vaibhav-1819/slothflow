@@ -1,0 +1,15 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Payments Gateway Internal API",
+    "version": "1.0.0"
+  },
+  "paths": {
+    "/v1/charges": {
+      "post": {
+        "summary": "Create customer credit card charge",
+        "responses": { "200": { "description": "Successful charge" } }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+# Java Collections & Concurrency Deep Dive
+
+1. HashMap vs ConcurrentHashMap: ConcurrentHashMap uses synchronized bucket nodes and CAS operations for lock-free reads.
+2. ArrayList amortized O(1) append vs LinkedList pointer overhead.
+3. ThreadPoolExecutor: corePoolSize, maximumPoolSize, keepAliveTime, and LinkedBlockingQueue.
+4. Java Memory Model (JMM): volatile keyword guarantees visibility and prevents instruction reordering.

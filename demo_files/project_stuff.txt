@@ -1,0 +1,8 @@
+SLOTHFLOW SPRINT BACKLOG & ROADMAP - WEEK 3
+
+- [x] FastAPI backend scaffolding and path security checks
+- [x] PyMuPDF document extraction pipeline
+- [x] Ollama local model structured JSON inference
+- [ ] React + Tailwind dashboard with sloth identity
+- [ ] Interactive plan preview with inline filename editor
+- [ ] Safe undo conflict checker & audit trail in SQLite
